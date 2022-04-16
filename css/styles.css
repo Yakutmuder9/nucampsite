@@ -47,3 +47,11 @@ a, a:hover {
   right: 0;
   bottom: 0;
   z-index: 100; }
+
+#reserveModa .modal-header {
+  color: white;
+  background: #17A2B8; }
+
+#loginModal .modal-header {
+  color: white;
+  background: #901CAD; }
